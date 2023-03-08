@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/ff/Desktop/BedSensor/bed-sensor/bed-sensor-firmware/build/CMakeFiles/bootloader
+/home/ff/Desktop/BedSensor/bed-sensor/bed-sensor-firmware/build/CMakeFiles/bootloader.rule
+/home/ff/Desktop/BedSensor/bed-sensor/bed-sensor-firmware/build/CMakeFiles/bootloader-complete.rule
+/home/ff/Desktop/BedSensor/bed-sensor/bed-sensor-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/ff/Desktop/BedSensor/bed-sensor/bed-sensor-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/ff/Desktop/BedSensor/bed-sensor/bed-sensor-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/ff/Desktop/BedSensor/bed-sensor/bed-sensor-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/ff/Desktop/BedSensor/bed-sensor/bed-sensor-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/ff/Desktop/BedSensor/bed-sensor/bed-sensor-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/ff/Desktop/BedSensor/bed-sensor/bed-sensor-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
